@@ -62,7 +62,7 @@ func main() {
 					<p>Details of the service.</p>
 				</div>
 			</section>
-
+  
 			<footer>
 				<p>&copy; 2025 Your Brand. All Rights Reserved.</p>
 			</footer>
