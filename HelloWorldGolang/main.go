@@ -77,12 +77,4 @@ func main() {
 	// Menjalankan server di port 3000
 	app.Listen(":3000")
 
-
-
-
-
-
-
-
-	
 }
